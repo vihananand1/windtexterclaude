@@ -1,0 +1,28 @@
+[
+  {
+    "id": "8E31D8C9-E9D8-4C37-A7B8-D64C1F29904D",
+    "delivery_path": "email",
+    "timestamp": "2025-08-10T16:35:15.970917+00:00",
+    "bitstream": [],
+    "is_sent_by_current_user": false,
+    "real_text": "Hi",
+    "cover_text": "011010010110111001101001011101000110100101100001011011000111011001100101011000110111010001101111011100100011000100110010001100110110101100111100",
+    "bit_count": 144,
+    "is_auto_reply": false,
+    "image_data": null,
+    "sender_id": "C697C75C-87B5-4B2D-9C75-16E6007035AE"
+  },
+  {
+    "id": "0EAFBF8A-CE26-45EE-9CB0-569CFB510B62",
+    "delivery_path": "email",
+    "timestamp": "2025-08-10T16:35:40.758562+00:00",
+    "bitstream": [],
+    "is_sent_by_current_user": false,
+    "real_text": "Bye",
+    "cover_text": "01101001011011100110100101110100011010010110000101101100011101100110010101100011011101000110111101110010001100010011001000110011011000010010110001101100",
+    "bit_count": 152,
+    "is_auto_reply": false,
+    "image_data": null,
+    "sender_id": "C697C75C-87B5-4B2D-9C75-16E6007035AE"
+  }
+]
